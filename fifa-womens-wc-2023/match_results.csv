@@ -1,0 +1,63 @@
+match,stage,home,away,goals_home,goals_away,extra_time,penalties,pens_home,pens_away,link
+1,Group Stage,New Zealand,Norway,1,0,No,No,,,https://www.fastscore.com/match/new-zealand-3/norway-2/3316078
+2,Group Stage,Australia,Republic of Ireland,1,0,No,No,,,https://www.fastscore.com/match/australia-4/republic-of-ireland-2/3316084
+3,Group Stage,Nigeria,Canada,0,0,No,No,,,https://www.fastscore.com/match/nigeria-4/canada-3/3316085
+4,Group Stage,Philippines,Switzerland,0,2,No,No,,,https://www.fastscore.com/match/philippines-2/switzerland-2/3316079
+5,Group Stage,Spain,Costa Rica,3,0,No,No,,,https://www.fastscore.com/match/spain-2/costa-rica-3/3316090
+6,Group Stage,United States,Vietnam,3,0,No,No,,,https://www.fastscore.com/match/united-states-4/vietnam-2/3316102
+7,Group Stage,Zambia,Japan,0,5,No,No,,,https://www.fastscore.com/match/zambia-2/japan-3/3316091
+8,Group Stage,England,Haiti,1,0,No,No,,,https://www.fastscore.com/match/england-2/haiti-2/3316097
+9,Group Stage,Denmark,China PR,1,0,No,No,,,https://www.fastscore.com/match/denmark-2/china-pr-3/3316096
+10,Group Stage,Sweden,South Africa,2,1,No,No,,,https://www.fastscore.com/match/sweden-2/south-africa-3/3316317
+11,Group Stage,Netherlands,Portugal,1,0,No,No,,,https://www.fastscore.com/match/netherlands-2/portugal-2/3316103
+12,Group Stage,France,Jamaica,0,0,No,No,,,https://www.fastscore.com/match/france-2/jamaica-2/3316108
+13,Group Stage,Italy,Argentina,1,0,No,No,,,https://www.fastscore.com/match/italy-2/argentina-3/3316319
+14,Group Stage,Germany,Morocco,6,0,No,No,,,https://www.fastscore.com/match/germany-2/morocco-3/3317499
+15,Group Stage,Brazil,Panama,4,0,No,No,,,https://www.fastscore.com/match/brazil-4/panama-3/3316110
+16,Group Stage,Colombia,Korea Republic,2,0,No,No,,,https://www.fastscore.com/match/colombia-3/korea-republic-3/3316320
+17,Group Stage,New Zealand,Philippines,0,1,No,No,,,https://www.fastscore.com/match/new-zealand-3/philippines-2/3316080
+18,Group Stage,Switzerland,Norway,0,0,No,No,,,https://www.fastscore.com/match/switzerland-2/norway-2/3316081
+19,Group Stage,Japan,Costa Rica,2,0,No,No,,,https://www.fastscore.com/match/japan-3/costa-rica-3/3316093
+20,Group Stage,Spain,Zambia,5,0,No,No,,,https://www.fastscore.com/match/spain-2/zambia-2/3316092
+21,Group Stage,Canada,Republic of Ireland,2,1,No,No,,,https://www.fastscore.com/match/canada-3/republic-of-ireland-2/3316086
+22,Group Stage,United States,Netherlands,1,1,No,No,,,https://www.fastscore.com/match/united-states-4/netherlands-2/3316104
+23,Group Stage,Portugal,Vietnam,2,0,No,No,,,https://www.fastscore.com/match/portugal-2/vietnam-2/3316105
+24,Group Stage,Australia,Nigeria,2,3,No,No,,,https://www.fastscore.com/match/australia-4/nigeria-4/3316087
+25,Group Stage,Argentina,South Africa,2,2,No,No,,,https://www.fastscore.com/match/argentina-3/south-africa-3/3316318
+26,Group Stage,England,Denmark,1,0,No,No,,,https://www.fastscore.com/match/england-2/denmark-2/3316098
+27,Group Stage,China PR,Haiti,1,0,No,No,,,https://www.fastscore.com/match/china-pr-3/haiti-2/3316099
+28,Group Stage,Sweden,Italy,5,0,No,No,,,https://www.fastscore.com/match/sweden-2/italy-2/3316115
+29,Group Stage,France,Brazil,2,1,No,No,,,https://www.fastscore.com/match/france-2/brazil-4/3316109
+30,Group Stage,Panama,Jamaica,0,1,No,No,,,https://www.fastscore.com/match/panama-3/jamaica-2/3316111
+31,Group Stage,Korea Republic,Morocco,0,1,No,No,,,https://www.fastscore.com/match/korea-republic-3/morocco-3/3316322
+32,Group Stage,Norway,Philippines,6,0,No,No,,,https://www.fastscore.com/match/norway-2/philippines-2/3316083
+33,Group Stage,Switzerland,New Zealand,0,0,No,No,,,https://www.fastscore.com/match/switzerland-2/new-zealand-3/3316082
+34,Group Stage,Germany,Colombia,1,2,No,No,,,https://www.fastscore.com/match/germany-2/colombia-3/3316321
+35,Group Stage,Costa Rica,Zambia,1,3,No,No,,,https://www.fastscore.com/match/costa-rica-3/zambia-2/3316095
+36,Group Stage,Japan,Spain,4,0,No,No,,,https://www.fastscore.com/match/japan-3/spain-2/3316094
+37,Group Stage,Republic of Ireland,Nigeria,0,0,No,No,,,https://www.fastscore.com/match/republic-of-ireland-2/nigeria-4/3316089
+38,Group Stage,Canada,Australia,0,4,No,No,,,https://www.fastscore.com/match/canada-3/australia-4/3316088
+39,Group Stage,Vietnam,Netherlands,0,7,No,No,,,https://www.fastscore.com/match/vietnam-2/netherlands-2/3316107
+40,Group Stage,Portugal,United States,0,0,No,No,,,https://www.fastscore.com/match/portugal-2/united-states-4/3316106
+41,Group Stage,Haiti,Denmark,0,2,No,No,,,https://www.fastscore.com/match/haiti-2/denmark-2/3316101
+42,Group Stage,China PR,England,1,6,No,No,,,https://www.fastscore.com/match/china-pr-3/england-2/3316100
+43,Group Stage,Argentina,Sweden,0,2,No,No,,,https://www.fastscore.com/match/argentina-3/sweden-2/3316114
+44,Group Stage,South Africa,Italy,3,2,No,No,,,https://www.fastscore.com/match/south-africa-3/italy-2/3316116
+45,Group Stage,Jamaica,Brazil,0,0,No,No,,,https://www.fastscore.com/match/jamaica-2/brazil-4/3316113
+46,Group Stage,Panama,France,3,6,No,No,,,https://www.fastscore.com/match/panama-3/france-2/3316112
+47,Group Stage,Morocco,Colombia,1,0,No,No,,,https://www.fastscore.com/match/morocco-3/colombia-3/3316119
+48,Group Stage,Korea Republic,Germany,1,1,No,No,,,https://www.fastscore.com/match/korea-republic-3/germany-2/3316117
+49,8th Final,Switzerland,Spain,1,5,No,No,,,https://www.fastscore.com/match/switzerland-2/spain-2/3316118
+50,8th Final,Japan,Norway,3,1,No,No,,,https://www.fastscore.com/match/japan-3/norway-2/3316121
+51,8th Final,Netherlands,South Africa,2,0,No,No,,,https://www.fastscore.com/match/netherlands-2/south-africa-3/3316120
+52,8th Final,Sweden,United States,0,0,Yes,Yes,5,4,https://www.fastscore.com/match/sweden-2/united-states-4/3316122
+53,8th Final,England,Nigeria,0,0,Yes,Yes,4,2,https://www.fastscore.com/match/england-2/nigeria-4/3316123
+54,8th Final,Australia,Denmark,2,0,No,No,,,https://www.fastscore.com/match/australia-4/denmark-2/3316124
+55,8th Final,Colombia,Jamaica,1,0,No,No,,,https://www.fastscore.com/match/colombia-3/jamaica-2/3316126
+56,8th Final,France,Morocco,4,0,No,No,,,https://www.fastscore.com/match/france-2/morocco-3/3316125
+57,Quarter Final,Spain,Netherlands,1,1,Yes,No,,,https://www.fastscore.com/match/spain-2/netherlands-2/3316127
+58,Quarter Final,Japan,Sweden,1,2,No,No,,,https://www.fastscore.com/match/japan-3/sweden-2/3316128
+59,Quarter Final,Australia,France,0,0,Yes,Yes,7,6,https://www.fastscore.com/match/australia-4/france-2/3316129
+60,Quarter Final,England,Colombia,2,1,No,No,,,https://www.fastscore.com/match/england-2/colombia-3/3316130
+61,Semi Final,Spain,Sweden,2,1,No,No,,,https://www.fastscore.com/match/spain-2/sweden-2/3317500
+62,Semi Final,Australia,England,1,3,No,No,,,https://www.fastscore.com/match/australia-4/england-2/3316131

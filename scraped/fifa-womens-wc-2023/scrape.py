@@ -29,6 +29,8 @@ for i in range(len(divs) - 1, -1, -1):
     goals_home, goals_away = goals[0].text.strip(), goals[1].text.strip()
     et = scores[0].text.strip()
     if et == "AET":
+        goals = scores[1].findChildren("div", recursive=False)
+        goals_home, goals_away = goals[0].text.strip(), goals[1].text.strip()
         extra_time, penalties, pens_home, pens_away = "Yes", "No", "", ""
         result = "{0} - {1} (AET)".format(goals_home, goals_away)
     elif et == "PSO":

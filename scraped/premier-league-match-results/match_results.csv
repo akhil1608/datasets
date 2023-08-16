@@ -1,0 +1,368 @@
+Year,Season,Team,Opponent,Result,Score,Goals For,Goals Against
+1992,92-93,Arsenal FC,Norwich City,Lost,2-4,2,4
+1992,92-93,Aston Villa,Ipswich Town,Drew,1-1,1,1
+1992,92-93,Crystal Palace,Blackburn Rovers,Drew,3-3,3,3
+1992,92-93,Chelsea FC,Oldham Athletic,Drew,1-1,1,1
+1992,92-93,Everton FC,Sheffield Wednesday,Drew,1-1,1,1
+1992,92-93,Liverpool FC,Nottingham Forest,Lost,0-1,0,1
+1992,92-93,Manchester City,Queens Park Rangers,Drew,1-1,1,1
+1992,92-93,Manchester United,Sheffield United,Lost,1-2,1,2
+1992,92-93,Nottingham Forest,Liverpool FC,Won,1-0,1,0
+1992,92-93,Tottenham Hotspur,Southampton FC,Drew,0-0,0,0
+1992,92-93,Sheffield United,Manchester United,Won,2-1,2,1
+1993,93-94,Arsenal FC,Coventry City,Lost,0-3,0,3
+1993,93-94,Aston Villa,Queens Park Rangers,Won,4-1,4,1
+1993,93-94,Chelsea FC,Blackburn Rovers,Lost,1-2,1,2
+1993,93-94,Everton FC,Southampton FC,Won,2-0,2,0
+1993,93-94,Liverpool FC,Sheffield Wednesday,Won,2-0,2,0
+1993,93-94,Manchester City,Leeds United,Drew,1-1,1,1
+1993,93-94,Manchester United,Norwich City,Won,2-0,2,0
+1993,93-94,Newcastle United,Tottenham Hotspur,Lost,0-1,0,1
+1993,93-94,Tottenham Hotspur,Newcastle United,Won,1-0,1,0
+1993,93-94,Sheffield United,Swindon Town,Won,3-1,3,1
+1993,93-94,West Ham United,Wimbledon FC,Lost,0-2,0,2
+1994,94-95,Arsenal FC,Manchester City,Won,3-0,3,0
+1994,94-95,Aston Villa,Everton FC,Drew,2-2,2,2
+1994,94-95,Crystal Palace,Liverpool FC,Lost,1-6,1,6
+1994,94-95,Chelsea FC,Norwich City,Won,2-0,2,0
+1994,94-95,Everton FC,Aston Villa,Drew,2-2,2,2
+1994,94-95,Liverpool FC,Crystal Palace,Won,6-1,6,1
+1994,94-95,Manchester City,Arsenal FC,Lost,0-3,0,3
+1994,94-95,Manchester United,Queens Park Rangers,Won,2-0,2,0
+1994,94-95,Newcastle United,Leicester City,Won,3-1,3,1
+1994,94-95,Nottingham Forest,Ipswich Town,Won,1-0,1,0
+1994,94-95,Tottenham Hotspur,Sheffield Wednesday,Won,4-3,4,3
+1994,94-95,West Ham United,Leeds United,Drew,0-0,0,0
+1995,95-96,Arsenal FC,Middlesbrough FC,Drew,1-1,1,1
+1995,95-96,Aston Villa,Manchester United,Won,3-1,3,1
+1995,95-96,Chelsea FC,Everton FC,Drew,0-0,0,0
+1995,95-96,Everton FC,Chelsea FC,Drew,0-0,0,0
+1995,95-96,Liverpool FC,Sheffield Wednesday,Won,1-0,1,0
+1995,95-96,Manchester City,Tottenham Hotspur,Drew,1-1,1,1
+1995,95-96,Manchester United,Aston Villa,Lost,1-3,1,3
+1995,95-96,Newcastle United,Coventry City,Won,3-0,3,0
+1995,95-96,Nottingham Forest,Southampton FC,Won,4-3,4,3
+1995,95-96,Tottenham Hotspur,Manchester City,Drew,1-1,1,1
+1995,95-96,West Ham United,Leeds United,Lost,1-2,1,2
+1996,96-97,Arsenal FC,West Ham United,Won,2-0,2,0
+1996,96-97,Aston Villa,Sheffield Wednesday,Lost,1-2,1,2
+1996,96-97,Chelsea FC,Southampton FC,Drew,0-0,0,0
+1996,96-97,Everton FC,Newcastle United,Won,2-0,2,0
+1996,96-97,Liverpool FC,Middlesbrough FC,Drew,3-3,3,3
+1996,96-97,Manchester United,Wimbledon FC,Won,3-0,3,0
+1996,96-97,Newcastle United,Everton FC,Lost,0-2,0,2
+1996,96-97,Nottingham Forest,Coventry City,Won,3-0,3,0
+1996,96-97,Tottenham Hotspur,Blackburn Rovers,Won,2-0,2,0
+1996,96-97,West Ham United,Arsenal FC,Lost,0-2,0,2
+1997,97-98,Arsenal FC,Leeds United,Drew,1-1,1,1
+1997,97-98,Aston Villa,Leicester City,Lost,0-1,0,1
+1997,97-98,Crystal Palace,Everton FC,Won,2-1,2,1
+1997,97-98,Chelsea FC,Coventry City,Lost,2-3,2,3
+1997,97-98,Everton FC,Crystal Palace,Lost,1-2,1,2
+1997,97-98,Liverpool FC,Wimbledon FC,Drew,1-1,1,1
+1997,97-98,Manchester United,Tottenham Hotspur,Won,2-0,2,0
+1997,97-98,Newcastle United,Sheffield Wednesday,Won,2-1,2,1
+1997,97-98,Tottenham Hotspur,Manchester United,Lost,0-2,0,2
+1997,97-98,West Ham United,Barnsley FC,Won,2-1,2,1
+1998,98-99,Arsenal FC,Nottingham Forest,Won,2-1,2,1
+1998,98-99,Aston Villa,Everton FC,Drew,0-0,0,0
+1998,98-99,Chelsea FC,Coventry City,Lost,1-2,1,2
+1998,98-99,Everton FC,Aston Villa,Drew,0-0,0,0
+1998,98-99,Liverpool FC,Southampton FC,Won,2-1,2,1
+1998,98-99,Manchester United,Leicester City,Drew,2-2,2,2
+1998,98-99,Newcastle United,Charlton Athletic,Drew,0-0,0,0
+1998,98-99,Nottingham Forest,Arsenal FC,Lost,1-2,1,2
+1998,98-99,Tottenham Hotspur,Wimbledon FC,Lost,1-3,1,3
+1998,98-99,West Ham United,Sheffield Wednesday,Won,1-0,1,0
+1999,99-00,Arsenal FC,Leicester City,Won,2-1,2,1
+1999,99-00,Aston Villa,Newcastle United,Won,1-0,1,0
+1999,99-00,Chelsea FC,Sunderland AFC,Won,4-0,4,0
+1999,99-00,Everton FC,Manchester United,Drew,1-1,1,1
+1999,99-00,Liverpool FC,Sheffield Wednesday,Won,2-1,2,1
+1999,99-00,Manchester United,Everton FC,Drew,1-1,1,1
+1999,99-00,Newcastle United,Aston Villa,Lost,0-1,0,1
+1999,99-00,Tottenham Hotspur,West Ham United,Lost,0-1,0,1
+1999,99-00,West Ham United,Tottenham Hotspur,Won,1-0,1,0
+2000,00-01,Arsenal FC,Sunderland AFC,Lost,0-1,0,1
+2000,00-01,Aston Villa,Leicester City,Drew,0-0,0,0
+2000,00-01,Chelsea FC,West Ham United,Won,4-2,4,2
+2000,00-01,Everton FC,Leeds United,Lost,0-2,0,2
+2000,00-01,Liverpool FC,Bradford City,Won,1-0,1,0
+2000,00-01,Manchester City,Charlton Athletic,Lost,0-4,0,4
+2000,00-01,Manchester United,Newcastle United,Won,2-0,2,0
+2000,00-01,Newcastle United,Manchester United,Lost,0-2,0,2
+2000,00-01,Tottenham Hotspur,Ipswich Town,Won,3-1,3,1
+2000,00-01,West Ham United,Chelsea FC,Lost,2-4,2,4
+2001,01-02,Arsenal FC,Middlesbrough FC,Won,4-0,4,0
+2001,01-02,Aston Villa,Tottenham Hotspur,Drew,0-0,0,0
+2001,01-02,Chelsea FC,Newcastle United,Drew,1-1,1,1
+2001,01-02,Everton FC,Charlton Athletic,Won,2-1,2,1
+2001,01-02,Fulham FC,Manchester United,Lost,2-3,2,3
+2001,01-02,Liverpool FC,West Ham United,Won,2-1,2,1
+2001,01-02,Manchester United,Fulham FC,Won,3-2,3,2
+2001,01-02,Newcastle United,Chelsea FC,Drew,1-1,1,1
+2001,01-02,Tottenham Hotspur,Aston Villa,Drew,0-0,0,0
+2001,01-02,West Ham United,Liverpool FC,Lost,1-2,1,2
+2002,02-03,Arsenal FC,Birmingham City,Won,2-0,2,0
+2002,02-03,Aston Villa,Liverpool FC,Lost,0-1,0,1
+2002,02-03,Chelsea FC,Charlton Athletic,Won,3-2,3,2
+2002,02-03,Everton FC,Tottenham Hotspur,Drew,2-2,2,2
+2002,02-03,Fulham FC,Bolton Wanderers,Won,4-1,4,1
+2002,02-03,Liverpool FC,Aston Villa,Won,1-0,1,0
+2002,02-03,Manchester City,Leeds United,Lost,0-3,0,3
+2002,02-03,Manchester United,West Bromwich Albion,Won,1-0,1,0
+2002,02-03,Newcastle United,West Ham United,Won,4-0,4,0
+2002,02-03,Tottenham Hotspur,Everton FC,Drew,2-2,2,2
+2002,02-03,West Ham United,Newcastle United,Lost,0-4,0,4
+2003,03-04,Arsenal FC,Everton FC,Won,2-1,2,1
+2003,03-04,Aston Villa,Portsmouth FC,Lost,1-2,1,2
+2003,03-04,Chelsea FC,Liverpool FC,Won,2-1,2,1
+2003,03-04,Everton FC,Arsenal FC,Lost,1-2,1,2
+2003,03-04,Fulham FC,Middlesbrough FC,Won,3-2,3,2
+2003,03-04,Liverpool FC,Chelsea FC,Lost,1-2,1,2
+2003,03-04,Manchester City,Charlton Athletic,Won,3-0,3,0
+2003,03-04,Manchester United,Bolton Wanderers,Won,4-0,4,0
+2003,03-04,Newcastle United,Leeds United,Drew,2-2,2,2
+2003,03-04,Tottenham Hotspur,Birmingham City,Lost,0-1,0,1
+2003,03-04,Wolverhampton Wanderers,Blackburn Rovers,Lost,1-5,1,5
+2004,04-05,Arsenal FC,Everton FC,Won,4-1,4,1
+2004,04-05,Aston Villa,Southampton FC,Won,2-0,2,0
+2004,04-05,Crystal Palace,Norwich City,Drew,1-1,1,1
+2004,04-05,Chelsea FC,Manchester United,Won,1-0,1,0
+2004,04-05,Everton FC,Arsenal FC,Lost,1-4,1,4
+2004,04-05,Fulham FC,Manchester City,Drew,1-1,1,1
+2004,04-05,Liverpool FC,Tottenham Hotspur,Drew,1-1,1,1
+2004,04-05,Manchester City,Fulham FC,Drew,1-1,1,1
+2004,04-05,Manchester United,Chelsea FC,Lost,0-1,0,1
+2004,04-05,Newcastle United,Middlesbrough FC,Drew,2-2,2,2
+2004,04-05,Tottenham Hotspur,Liverpool FC,Drew,1-1,1,1
+2005,05-06,Arsenal FC,Newcastle United,Won,2-0,2,0
+2005,05-06,Aston Villa,Bolton Wanderers,Drew,2-2,2,2
+2005,05-06,Chelsea FC,Wigan Athletic,Won,1-0,1,0
+2005,05-06,Everton FC,Manchester United,Lost,0-2,0,2
+2005,05-06,Fulham FC,Birmingham City,Drew,0-0,0,0
+2005,05-06,Liverpool FC,Middlesbrough FC,Drew,0-0,0,0
+2005,05-06,Manchester City,West Bromwich Albion,Drew,0-0,0,0
+2005,05-06,Manchester United,Everton FC,Won,2-0,2,0
+2005,05-06,Newcastle United,Arsenal FC,Lost,0-2,0,2
+2005,05-06,Tottenham Hotspur,Portsmouth FC,Won,2-0,2,0
+2005,05-06,West Ham United,Blackburn Rovers,Won,3-1,3,1
+2006,06-07,Arsenal FC,Aston Villa,Drew,1-1,1,1
+2006,06-07,Aston Villa,Arsenal FC,Drew,1-1,1,1
+2006,06-07,Chelsea FC,Manchester City,Won,3-0,3,0
+2006,06-07,Everton FC,Watford FC,Won,2-1,2,1
+2006,06-07,Fulham FC,Manchester United,Lost,1-5,1,5
+2006,06-07,Liverpool FC,Sheffield United,Drew,1-1,1,1
+2006,06-07,Manchester City,Chelsea FC,Lost,0-3,0,3
+2006,06-07,Manchester United,Fulham FC,Won,5-1,5,1
+2006,06-07,Newcastle United,Wigan Athletic,Won,2-1,2,1
+2006,06-07,Tottenham Hotspur,Bolton Wanderers,Lost,0-2,0,2
+2006,06-07,Sheffield United,Liverpool FC,Drew,1-1,1,1
+2006,06-07,West Ham United,Charlton Athletic,Won,3-1,3,1
+2007,07-08,Arsenal FC,Fulham FC,Won,2-1,2,1
+2007,07-08,Aston Villa,Liverpool FC,Lost,1-2,1,2
+2007,07-08,Chelsea FC,Birmingham City,Won,3-2,3,2
+2007,07-08,Everton FC,Wigan Athletic,Won,2-1,2,1
+2007,07-08,Fulham FC,Arsenal FC,Lost,1-2,1,2
+2007,07-08,Liverpool FC,Aston Villa,Won,2-1,2,1
+2007,07-08,Manchester City,West Ham United,Won,2-0,2,0
+2007,07-08,Manchester United,Reading FC,Drew,0-0,0,0
+2007,07-08,Newcastle United,Bolton Wanderers,Won,3-1,3,1
+2007,07-08,Tottenham Hotspur,Sunderland AFC,Lost,0-1,0,1
+2007,07-08,West Ham United,Manchester City,Lost,0-2,0,2
+2008,08-09,Arsenal FC,West Bromwich Albion,Won,1-0,1,0
+2008,08-09,Aston Villa,Manchester City,Won,4-2,4,2
+2008,08-09,Chelsea FC,Portsmouth FC,Won,4-0,4,0
+2008,08-09,Everton FC,Blackburn Rovers,Lost,2-3,2,3
+2008,08-09,Fulham FC,Hull City,Lost,1-2,1,2
+2008,08-09,Liverpool FC,Sunderland AFC,Won,1-0,1,0
+2008,08-09,Manchester City,Aston Villa,Lost,2-4,2,4
+2008,08-09,Manchester United,Newcastle United,Drew,1-1,1,1
+2008,08-09,Newcastle United,Manchester United,Drew,1-1,1,1
+2008,08-09,Tottenham Hotspur,Middlesbrough FC,Lost,1-2,1,2
+2008,08-09,West Ham United,Wigan Athletic,Won,2-1,2,1
+2009,09-10,Arsenal FC,Everton FC,Won,6-1,6,1
+2009,09-10,Aston Villa,Wigan Athletic,Lost,0-2,0,2
+2009,09-10,Burnley FC,Stoke City,Lost,0-2,0,2
+2009,09-10,Chelsea FC,Hull City,Won,2-1,2,1
+2009,09-10,Everton FC,Arsenal FC,Lost,1-6,1,6
+2009,09-10,Fulham FC,Portsmouth FC,Won,1-0,1,0
+2009,09-10,Liverpool FC,Tottenham Hotspur,Lost,1-2,1,2
+2009,09-10,Manchester City,Blackburn Rovers,Won,2-0,2,0
+2009,09-10,Manchester United,Birmingham City,Won,1-0,1,0
+2009,09-10,Tottenham Hotspur,Liverpool FC,Won,2-1,2,1
+2009,09-10,West Ham United,Wolverhampton Wanderers,Won,2-0,2,0
+2009,09-10,Wolverhampton Wanderers,West Ham United,Lost,0-2,0,2
+2010,10-11,Arsenal FC,Liverpool FC,Drew,1-1,1,1
+2010,10-11,Aston Villa,West Ham United,Won,3-0,3,0
+2010,10-11,Chelsea FC,West Bromwich Albion,Won,6-0,6,0
+2010,10-11,Everton FC,Blackburn Rovers,Lost,0-1,0,1
+2010,10-11,Fulham FC,Bolton Wanderers,Drew,0-0,0,0
+2010,10-11,Liverpool FC,Arsenal FC,Drew,1-1,1,1
+2010,10-11,Manchester City,Tottenham Hotspur,Drew,0-0,0,0
+2010,10-11,Manchester United,Newcastle United,Won,3-0,3,0
+2010,10-11,Newcastle United,Manchester United,Lost,0-3,0,3
+2010,10-11,Tottenham Hotspur,Manchester City,Drew,0-0,0,0
+2010,10-11,West Ham United,Aston Villa,Lost,0-3,0,3
+2010,10-11,Wolverhampton Wanderers,Stoke City,Won,2-1,2,1
+2011,11-12,Arsenal FC,Newcastle United,Drew,0-0,0,0
+2011,11-12,Aston Villa,Fulham FC,Drew,0-0,0,0
+2011,11-12,Chelsea FC,Stoke City,Drew,0-0,0,0
+2011,11-12,Everton FC,Tottenham Hotspur,Lost,0-2,0,2
+2011,11-12,Fulham FC,Aston Villa,Drew,0-0,0,0
+2011,11-12,Liverpool FC,Sunderland AFC,Drew,1-1,1,1
+2011,11-12,Manchester City,Swansea City,Won,4-0,4,0
+2011,11-12,Manchester United,West Bromwich Albion,Won,2-1,2,1
+2011,11-12,Newcastle United,Arsenal FC,Drew,0-0,0,0
+2011,11-12,Tottenham Hotspur,Everton FC,Won,2-0,2,0
+2011,11-12,Wolverhampton Wanderers,Blackburn Rovers,Won,2-1,2,1
+2012,12-13,Arsenal FC,Sunderland AFC,Drew,0-0,0,0
+2012,12-13,Aston Villa,West Ham United,Lost,0-1,0,1
+2012,12-13,Chelsea FC,Wigan Athletic,Won,2-0,2,0
+2012,12-13,Everton FC,Manchester United,Won,1-0,1,0
+2012,12-13,Fulham FC,Norwich City,Won,5-0,5,0
+2012,12-13,Liverpool FC,West Bromwich Albion,Lost,0-3,0,3
+2012,12-13,Manchester City,Southampton FC,Won,3-2,3,2
+2012,12-13,Manchester United,Everton FC,Lost,0-1,0,1
+2012,12-13,Newcastle United,Tottenham Hotspur,Won,2-1,2,1
+2012,12-13,Tottenham Hotspur,Newcastle United,Lost,1-2,1,2
+2012,12-13,West Ham United,Aston Villa,Won,1-0,1,0
+2013,13-14,Arsenal FC,Aston Villa,Lost,1-3,1,3
+2013,13-14,Aston Villa,Arsenal FC,Won,3-1,3,1
+2013,13-14,Crystal Palace,Tottenham Hotspur,Lost,0-1,0,1
+2013,13-14,Chelsea FC,Hull City,Won,2-0,2,0
+2013,13-14,Everton FC,Norwich City,Drew,2-2,2,2
+2013,13-14,Fulham FC,Sunderland AFC,Won,1-0,1,0
+2013,13-14,Liverpool FC,Stoke City,Won,1-0,1,0
+2013,13-14,Manchester City,Newcastle United,Won,4-0,4,0
+2013,13-14,Manchester United,Swansea City,Won,4-1,4,1
+2013,13-14,Newcastle United,Manchester City,Lost,0-4,0,4
+2013,13-14,Tottenham Hotspur,Crystal Palace,Won,1-0,1,0
+2013,13-14,West Ham United,Cardiff City,Won,2-0,2,0
+2014,14-15,Arsenal FC,Crystal Palace,Won,2-1,2,1
+2014,14-15,Aston Villa,Stoke City,Won,1-0,1,0
+2014,14-15,Burnley FC,Chelsea FC,Lost,1-3,1,3
+2014,14-15,Crystal Palace,Arsenal FC,Lost,1-2,1,2
+2014,14-15,Chelsea FC,Burnley FC,Won,3-1,3,1
+2014,14-15,Everton FC,Leicester City,Drew,2-2,2,2
+2014,14-15,Liverpool FC,Southampton FC,Won,2-1,2,1
+2014,14-15,Manchester City,Newcastle United,Won,2-0,2,0
+2014,14-15,Manchester United,Swansea City,Lost,1-2,1,2
+2014,14-15,Newcastle United,Manchester City,Lost,0-2,0,2
+2014,14-15,Tottenham Hotspur,West Ham United,Won,1-0,1,0
+2014,14-15,West Ham United,Tottenham Hotspur,Lost,0-1,0,1
+2015,15-16,Arsenal FC,West Ham United,Lost,0-2,0,2
+2015,15-16,Aston Villa,AFC Bournemouth,Won,1-0,1,0
+2015,15-16,AFC Bournemouth,Aston Villa,Lost,0-1,0,1
+2015,15-16,Crystal Palace,Norwich City,Won,3-1,3,1
+2015,15-16,Chelsea FC,Swansea City,Drew,2-2,2,2
+2015,15-16,Everton FC,Watford FC,Drew,2-2,2,2
+2015,15-16,Liverpool FC,Stoke City,Won,1-0,1,0
+2015,15-16,Manchester City,West Bromwich Albion,Won,3-0,3,0
+2015,15-16,Manchester United,Tottenham Hotspur,Won,1-0,1,0
+2015,15-16,Newcastle United,Southampton FC,Drew,2-2,2,2
+2015,15-16,Tottenham Hotspur,Manchester United,Lost,0-1,0,1
+2015,15-16,West Ham United,Arsenal FC,Won,2-0,2,0
+2016,16-17,Arsenal FC,Liverpool FC,Lost,3-4,3,4
+2016,16-17,Burnley FC,Swansea City,Lost,0-1,0,1
+2016,16-17,AFC Bournemouth,Manchester United,Lost,1-3,1,3
+2016,16-17,Crystal Palace,West Bromwich Albion,Lost,0-1,0,1
+2016,16-17,Chelsea FC,West Ham United,Won,2-1,2,1
+2016,16-17,Everton FC,Tottenham Hotspur,Drew,1-1,1,1
+2016,16-17,Liverpool FC,Arsenal FC,Won,4-3,4,3
+2016,16-17,Manchester City,Sunderland AFC,Won,2-1,2,1
+2016,16-17,Manchester United,AFC Bournemouth,Won,3-1,3,1
+2016,16-17,Tottenham Hotspur,Everton FC,Drew,1-1,1,1
+2016,16-17,West Ham United,Chelsea FC,Lost,1-2,1,2
+2017,17-18,Arsenal FC,Leicester City,Won,4-3,4,3
+2017,17-18,Burnley FC,Chelsea FC,Won,3-2,3,2
+2017,17-18,AFC Bournemouth,West Bromwich Albion,Lost,0-1,0,1
+2017,17-18,Brighton & Hove Albion,Manchester City,Lost,0-2,0,2
+2017,17-18,Crystal Palace,Huddersfield Town,Lost,0-3,0,3
+2017,17-18,Chelsea FC,Burnley FC,Lost,2-3,2,3
+2017,17-18,Everton FC,Stoke City,Won,1-0,1,0
+2017,17-18,Liverpool FC,Watford FC,Drew,3-3,3,3
+2017,17-18,Manchester City,Brighton & Hove Albion,Won,2-0,2,0
+2017,17-18,Manchester United,West Ham United,Won,4-0,4,0
+2017,17-18,Newcastle United,Tottenham Hotspur,Lost,0-2,0,2
+2017,17-18,Tottenham Hotspur,Newcastle United,Won,2-0,2,0
+2017,17-18,West Ham United,Manchester United,Lost,0-4,0,4
+2018,18-19,Arsenal FC,Manchester City,Lost,0-2,0,2
+2018,18-19,Burnley FC,Southampton FC,Drew,0-0,0,0
+2018,18-19,AFC Bournemouth,Cardiff City,Won,2-0,2,0
+2018,18-19,Brighton & Hove Albion,Watford FC,Lost,0-2,0,2
+2018,18-19,Crystal Palace,Fulham FC,Won,2-0,2,0
+2018,18-19,Chelsea FC,Huddersfield Town,Won,3-0,3,0
+2018,18-19,Everton FC,Wolverhampton Wanderers,Drew,2-2,2,2
+2018,18-19,Fulham FC,Crystal Palace,Lost,0-2,0,2
+2018,18-19,Liverpool FC,West Ham United,Won,4-0,4,0
+2018,18-19,Manchester City,Arsenal FC,Won,2-0,2,0
+2018,18-19,Manchester United,Leicester City,Won,2-1,2,1
+2018,18-19,Newcastle United,Tottenham Hotspur,Lost,1-2,1,2
+2018,18-19,Tottenham Hotspur,Newcastle United,Won,2-1,2,1
+2018,18-19,West Ham United,Liverpool FC,Lost,0-4,0,4
+2018,18-19,Wolverhampton Wanderers,Everton FC,Drew,2-2,2,2
+2019,19-20,Arsenal FC,Newcastle United,Won,1-0,1,0
+2019,19-20,Aston Villa,Tottenham Hotspur,Lost,1-3,1,3
+2019,19-20,Burnley FC,Southampton FC,Won,3-0,3,0
+2019,19-20,AFC Bournemouth,Sheffield United,Drew,1-1,1,1
+2019,19-20,Brighton & Hove Albion,Watford FC,Won,3-0,3,0
+2019,19-20,Crystal Palace,Everton FC,Drew,0-0,0,0
+2019,19-20,Chelsea FC,Manchester United,Lost,0-4,0,4
+2019,19-20,Everton FC,Crystal Palace,Drew,0-0,0,0
+2019,19-20,Liverpool FC,Norwich City,Won,4-1,4,1
+2019,19-20,Manchester City,West Ham United,Won,5-0,5,0
+2019,19-20,Manchester United,Chelsea FC,Won,4-0,4,0
+2019,19-20,Newcastle United,Arsenal FC,Lost,0-1,0,1
+2019,19-20,Tottenham Hotspur,Aston Villa,Won,3-1,3,1
+2019,19-20,Sheffield United,AFC Bournemouth,Drew,1-1,1,1
+2019,19-20,West Ham United,Manchester City,Lost,0-5,0,5
+2019,19-20,Wolverhampton Wanderers,Leicester City,Drew,0-0,0,0
+2020,20-21,Arsenal FC,Fulham FC,Won,3-0,3,0
+2020,20-21,Aston Villa,Manchester City,Lost,0-2,0,2
+2020,20-21,Burnley FC,Manchester United,Lost,0-1,0,1
+2020,20-21,Brighton & Hove Albion,Chelsea FC,Lost,1-3,1,3
+2020,20-21,Crystal Palace,Southampton FC,Won,1-0,1,0
+2020,20-21,Chelsea FC,Brighton & Hove Albion,Won,3-1,3,1
+2020,20-21,Everton FC,Tottenham Hotspur,Won,1-0,1,0
+2020,20-21,Fulham FC,Arsenal FC,Lost,0-3,0,3
+2020,20-21,Liverpool FC,Leeds United,Won,4-3,4,3
+2020,20-21,Manchester City,Aston Villa,Won,2-0,2,0
+2020,20-21,Manchester United,Burnley FC,Won,1-0,1,0
+2020,20-21,Newcastle United,West Ham United,Won,2-0,2,0
+2020,20-21,Tottenham Hotspur,Everton FC,Lost,0-1,0,1
+2020,20-21,Sheffield United,Wolverhampton Wanderers,Lost,0-2,0,2
+2020,20-21,West Ham United,Newcastle United,Lost,0-2,0,2
+2020,20-21,Wolverhampton Wanderers,Sheffield United,Won,2-0,2,0
+2021,21-22,Arsenal FC,Brentford FC,Lost,0-2,0,2
+2021,21-22,Aston Villa,Watford FC,Lost,2-3,2,3
+2021,21-22,Burnley FC,Brighton & Hove Albion,Lost,1-2,1,2
+2021,21-22,Brentford FC,Arsenal FC,Won,2-0,2,0
+2021,21-22,Brighton & Hove Albion,Burnley FC,Won,2-1,2,1
+2021,21-22,Crystal Palace,Chelsea FC,Lost,0-3,0,3
+2021,21-22,Chelsea FC,Crystal Palace,Won,3-0,3,0
+2021,21-22,Everton FC,Southampton FC,Won,3-1,3,1
+2021,21-22,Liverpool FC,Norwich City,Won,3-0,3,0
+2021,21-22,Manchester City,Tottenham Hotspur,Lost,0-1,0,1
+2021,21-22,Manchester United,Leeds United,Won,5-1,5,1
+2021,21-22,Newcastle United,West Ham United,Lost,2-4,2,4
+2021,21-22,Tottenham Hotspur,Manchester City,Won,1-0,1,0
+2021,21-22,West Ham United,Newcastle United,Won,4-2,4,2
+2021,21-22,Wolverhampton Wanderers,Leicester City,Lost,0-1,0,1
+2022,22-23,Arsenal FC,Crystal Palace,Won,2-0,2,0
+2022,22-23,Aston Villa,AFC Bournemouth,Lost,0-2,0,2
+2022,22-23,AFC Bournemouth,Aston Villa,Won,2-0,2,0
+2022,22-23,Brentford FC,Leicester City,Drew,2-2,2,2
+2022,22-23,Brighton & Hove Albion,Manchester United,Won,2-1,2,1
+2022,22-23,Crystal Palace,Arsenal FC,Lost,0-2,0,2
+2022,22-23,Chelsea FC,Everton FC,Won,1-0,1,0
+2022,22-23,Everton FC,Chelsea FC,Lost,0-1,0,1
+2022,22-23,Fulham FC,Liverpool FC,Drew,2-2,2,2
+2022,22-23,Liverpool FC,Fulham FC,Drew,2-2,2,2
+2022,22-23,Manchester City,West Ham United,Won,2-0,2,0
+2022,22-23,Manchester United,Brighton & Hove Albion,Lost,1-2,1,2
+2022,22-23,Newcastle United,Nottingham Forest,Won,2-0,2,0
+2022,22-23,Nottingham Forest,Newcastle United,Lost,0-2,0,2
+2022,22-23,Tottenham Hotspur,Southampton FC,Won,4-1,4,1
+2022,22-23,West Ham United,Manchester City,Lost,0-2,0,2
+2022,22-23,Wolverhampton Wanderers,Leeds United,Lost,1-2,1,2
